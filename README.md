@@ -1,6 +1,6 @@
 Individual assignment for the course Databasteknik at Nackademin
 
-Assignment:
+Assignment: 
 Denna uppgift är utformad för att bedöma förståelsen av grundläggande databaskoncept, inklusive databasdesign, SQL och säkerhetsaspekter i PostgreSQL.
 
 Information about the program:
